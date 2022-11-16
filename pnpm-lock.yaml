@@ -4,7 +4,7 @@ specifiers:
   '@types/mocha': ^8.2.3
   '@types/node': ^14.0.14
   buffer: ^6.0.3
-  canvas: ^2.8.0
+  canvas: ^2.10.2
   jimp: ^0.16.1
   js-binary-schema-parser: ^2.0.0
   jsqr: ^1.4.0
@@ -18,7 +18,7 @@ specifiers:
 
 dependencies:
   buffer: 6.0.3
-  canvas: 2.8.0
+  canvas: 2.10.2
   js-binary-schema-parser: 2.0.2
 
 devDependencies:
@@ -833,7 +833,7 @@ packages:
     resolution: {integrity: sha512-YzBnspggWV5hep1m9Z6sZVLOt7vrju8xWooFAgN6BA5qvy98qPAPb7vNUzypFaoh2pb3vlfzbDO8tB57UPGbtw==}
     dev: true
 
-  /canvas/2.8.0:
+  /canvas/2.10.2:
     resolution: {integrity: sha512-gLTi17X8WY9Cf5GZ2Yns8T5lfBOcGgFehDFb+JQwDqdOoBOcECS9ZWMEAqMSVcMYwXD659J8NyzjRY/2aE+C2Q==}
     engines: {node: '>=6'}
     requiresBuild: true
